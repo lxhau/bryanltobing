@@ -1,8 +1,8 @@
 # Hi there 👋
 
-Check this out https://bryantobing.com
+Check this out https://lexuanhau.dev
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bryantobing12.bryantobing12)
+![Visitor Badge](https://lexuanhau.dev)
 
 
 
